@@ -1,0 +1,15 @@
+body {
+    background-color: #1F2937;
+    font-family: "roboto";
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+nav {
+    display: flex;
+}
+.Header-section{
+    display: flex;
+
+}
